@@ -12,7 +12,7 @@ class Home extends StatelessWidget {
     return Scaffold(
     
     appBar: AppBar(
-      title: const Text('my first app.'),
+      title: const Text('my first app'),
       centerTitle: true,
       backgroundColor: Colors.red[600],
     ),
